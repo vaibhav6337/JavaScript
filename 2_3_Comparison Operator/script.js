@@ -1,0 +1,11 @@
+let a=5;
+let b=6;
+console.log("----- Comparison Operator -----");
+console.log("a==b : ",a==b);
+console.log("a!=b : ",a!=b);
+console.log("a===b : ",a===b);
+console.log("a!==b : ",a!==b);
+console.log("a<=b : ",a<=b);
+console.log("a>=b : ",a>=b);
+console.log("a<b : ",a<b);
+console.log("a>b : ",a>b);
